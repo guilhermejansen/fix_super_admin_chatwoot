@@ -1,10 +1,8 @@
 # Fix Super Admin Chatwoot - README
 
-## 📌 About this Tutorial (English & Portuguese)
+## 📌 About this Tutorial (English)
 
 This tutorial explains step by step how to create and confirm a **SuperAdmin** user in **Chatwoot** after deployment when the initial user creation fails. It covers methods for **Docker, Portainer, and local host setups**.
-
-Este tutorial explica passo a passo como criar e confirmar um usuário **SuperAdmin** no **Chatwoot** após o deploy, caso a criação inicial do usuário falhe. Ele cobre métodos para **Docker, Portainer e hospedagem local**.
 
 🎥 **YouTube Video Tutorial:** [Click here to watch](https://your-video-link.com)
 
