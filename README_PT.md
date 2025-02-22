@@ -6,7 +6,7 @@ Este tutorial explica passo a passo como criar e confirmar um **SuperAdmin** no 
 
 This tutorial explains step by step how to create and confirm a **SuperAdmin** user in **Chatwoot** after deployment when the initial user creation fails. It covers methods for **Docker, Portainer, and local host setups**.
 
-🎥 **Tutorial em vídeo no YouTube:** [Clique aqui para assistir](https://your-video-link.com)
+🎥 **Tutorial em vídeo no YouTube:** [Clique aqui para assistir](https://youtu.be/RTBqgbCFxGA)
 
 ---
 
@@ -116,7 +116,7 @@ admin.save!
 ## ✅ Conclusão
 Agora, você tem um **SuperAdmin** funcional no Chatwoot! 🚀 Se encontrar problemas, verifique os logs e certifique-se de que o banco de dados está em execução.
 
-🔗 **Assista ao tutorial em vídeo aqui:** [Clique aqui](https://your-video-link.com)
+🔗 **Assista ao tutorial em vídeo aqui:** [Clique aqui](https://youtu.be/RTBqgbCFxGA)
 
 ---
 
